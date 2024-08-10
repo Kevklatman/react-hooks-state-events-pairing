@@ -5,8 +5,9 @@ function Title() {
 
   return (
     <div>
-                <h1 className="h1">{video.title}</h1>
-
+    <h1 className="h1">
+        {video.title}
+    </h1>
         <iframe
         width="919"
         height="525"

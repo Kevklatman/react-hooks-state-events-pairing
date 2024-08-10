@@ -1,7 +1,7 @@
 function Comments(){
     return(
         <div>
-jgkhgkjhgklhg
+Comments
         </div>
     )
 }

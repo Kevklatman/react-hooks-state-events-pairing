@@ -1,7 +1,7 @@
 function LikeDislike(){
     return(
         <div>
-jkjhghglhg
+LikeDislike
         </div>
     )
 }
