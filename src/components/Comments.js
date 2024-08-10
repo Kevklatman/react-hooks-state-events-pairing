@@ -1,9 +1,21 @@
+
+
+
+
 function Comments(){
+
     return(
         <div>
-Comments
+        <div>
+        <input 
+        type="form">
+        </input>
+        </div>
+        <button>
+            submit
+        </button>
         </div>
     )
 }
 
-export default Comments;
+export default Comments;///
