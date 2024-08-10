@@ -1,7 +1,13 @@
 function LikeDislike(){
     return(
         <div>
-LikeDislike
+            <button className="like">
+                like
+            </button>
+            <button className="dislike">
+            dislike
+            </button>
+
         </div>
     )
 }

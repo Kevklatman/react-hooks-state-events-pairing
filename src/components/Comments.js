@@ -6,12 +6,10 @@ function Comments(){
 
     return(
         <div>
-        <div>
         <input 
-        type="form">
+        type="form" className="commentform" placeholder="comment here">
         </input>
-        </div>
-        <button>
+        <button type="form"className="commentform">
             submit
         </button>
         </div>
